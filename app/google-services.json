@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "864440125808",
+    "project_id": "go-buyy",
+    "storage_bucket": "go-buyy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864440125808:android:e4ae761b75e3599680e7b5",
+        "android_client_info": {
+          "package_name": "com.var.gobuyy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864440125808-v95tdv5076vatvdkfl5fud8rlr7kjeo7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMGGldd9KcbqYseomHIWWQdKTY_EV8VJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864440125808-v95tdv5076vatvdkfl5fud8rlr7kjeo7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
